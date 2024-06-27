@@ -16,3 +16,7 @@ console.log(numero + numeroString);
 
 // Conversao Explicita
 // Number
+let novoNumero = Number(numeroString);
+console.log (numero + novoNumero);
+
+// String
